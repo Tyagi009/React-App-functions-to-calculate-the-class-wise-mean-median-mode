@@ -1,0 +1,23 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Write utility functions to calculate the class-wise mean, median, mode of Flavanoids for the entire dataset",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "framer-motion": "^2.1.4",
+    "http-status-codes": "^1.4.0",
+    "morgan": "^1.10.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "styled-components": "^5.1.1"
+  },
+  
+  "wallaby": {
+    "autoDetect": true
+  }
+}
